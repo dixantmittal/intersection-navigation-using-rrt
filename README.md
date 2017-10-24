@@ -49,11 +49,11 @@ where M is the number of steps it takes for the autonomous car to cross the road
 
 ## Authors
 
-* **Dixant Mittal** - *Initial work* - [dixantmittal](https://github.com/dixantmittal)
+* **Dixant Mittal** - [dixantmittal](https://github.com/dixantmittal)
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
