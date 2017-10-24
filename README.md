@@ -55,6 +55,6 @@ where M is the number of steps it takes for the autonomous car to cross the road
 
 This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details
 
-## Acknowledgments
+## References
 
-* Ideas taken from: [Hsu02] - Hsu, D., Kindel, R., Latombe, J.-C., & Rock, S. (2002). Randomized Kinodynamic Motion Planning with Moving Obstacles. The International Journal of Robotics Research, 21(3), 233–255. https://doi.org/10.1177/027836402320556421
+* [Hsu02] - Hsu, D., Kindel, R., Latombe, J.-C., & Rock, S. (2002). Randomized Kinodynamic Motion Planning with Moving Obstacles. The International Journal of Robotics Research, 21(3), 233–255. https://doi.org/10.1177/027836402320556421
